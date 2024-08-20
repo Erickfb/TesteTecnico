@@ -1,0 +1,7 @@
+excluded:
+  - Pods
+  - Carthage
+  - .git
+  - fastlane
+  - build
+  - /Users/erick/Documents/Projetos/DigioStore/DigioStore/.git
