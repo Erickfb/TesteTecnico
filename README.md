@@ -18,10 +18,10 @@ Nenhuma biblioteca externa foi utilizada neste projeto.
 
 ## Decisões de Implementação
 
-- **Estrutura do Projeto:** Decidimos utilizar MVC devido à sua simplicidade e adequação a projetos pequenos e médios.
+- **Estrutura do Projeto:** Decidi utilizar MVC devido à sua simplicidade e adequação a projetos pequenos e médios.
 - **Manutenção de Estado:** O estado da aplicação, como os dados da loja, é mantido dentro dos controladores principais, com suporte a injeção de dependências para facilitar o teste unitário.
-- **Testes Unitários:** Implementamos testes para garantir que os dados são corretamente carregados e exibidos nas células apropriadas.
-- **Tratamento de Erros:** Utilizamos uma extensão para exibir alertas em caso de falhas no carregamento de dados.
+- **Testes Unitários:** Implementei testes para garantir que os dados são corretamente carregados e exibidos nas células apropriadas.
+- **Tratamento de Erros:** Utilizei uma extensão para exibir alertas em caso de falhas no carregamento de dados.
 
 ## Testes Unitários
 
