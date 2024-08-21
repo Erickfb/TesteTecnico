@@ -42,6 +42,10 @@ Os testes foram escritos para garantir:
 1. Selecione o esquema de testes no Xcode.
 2. Execute os testes (`Cmd + U`).
 
+## Swiftlint
+
+1. [Swiftlint](https://github.com/realm/swiftlint?tab=readme-ov-file#swift-package-projects)
+
 ## Justificativa para Uso de Bibliotecas
 
 Nenhuma biblioteca externa foi utilizada neste projeto, focando em uma implementação nativa e direta das funcionalidades necessárias.
