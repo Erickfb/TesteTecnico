@@ -44,7 +44,7 @@ Os testes foram escritos para garantir:
 
 ## Swiftlint
 
-1. [Swiftlint](https://github.com/realm/swiftlint?tab=readme-ov-file#swift-package-projects)
+1. brew install [swiftlint](https://github.com/realm/swiftlint?tab=readme-ov-file#swift-package-projects)
 
 ## Justificativa para Uso de Bibliotecas
 
